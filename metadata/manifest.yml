@@ -12,7 +12,6 @@ Vendor: Oracle
 Categories:
   - service
   - database
-  - external
   - embedded
 Website: http://www.mysql.com
 Help-Topics:
@@ -51,7 +50,7 @@ Endpoints:
     Public-Port-Name:  DB_PROXY_PORT
 Install-Build-Required: false
 #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
-#Source-Url: file:///root/dymysql/
+Source-Url: file:///root/dymysql/
 #Source-Md5: b2b5284630b6b6a9341df5260cb835c5
 #Source-Url: https://github.com/duyanyan/dymysql/raw/master/dymysql.tar.gz
 #Source-Url: https://github.com/duyanyan/dymysql/raw/master/dymysql.zip
