@@ -12,7 +12,6 @@ Vendor: Oracle
 Categories:
   - service
   - database
-  - embedded
   - external
 Website: http://www.mysql.com
 Help-Topics:
