@@ -12,6 +12,7 @@ Vendor: Oracle
 Categories:
   - service
   - database
+  - external
   - embedded
 Website: http://www.mysql.com
 Help-Topics:
@@ -40,9 +41,6 @@ Conflicts:
 Publishes:
   publish-db-connection-info:
     Type: "ENV:NET_TCP:db:connection-info"
-Scaling:
-  Min: 1
-  Max: -1
 Endpoints:
   - Private-IP-Name:   DB_HOST
     Private-Port-Name: DB_PORT
